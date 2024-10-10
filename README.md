@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hibeenovul (Ibrahim)
+- 👋 Hi, I’m @hibeenovul 
 - 👀 I’m interested in full stack Software Engineering, Web development and more
 -  Software Engineering Graduate @Alx
 - 💞️ I’m looking to collaborate on my develpment and learning more
