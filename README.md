@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hibeenovul 
-- 👀 I’m interested in full stack Software Engineering, Web development and more
+- 👀 I’m interested in full stack Software Engineering, backend, Web development, Scripting, EA scripting and more
 -  Software Engineering Graduate @Alx
 - 💞️ I’m looking to collaborate on my develpment and learning more
 - 📫 How to reach me hibeenovul19@gmil.com
